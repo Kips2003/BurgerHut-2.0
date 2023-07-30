@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\c# learning\Another_burger\bin\Debug\net7.0\Another_burger.exe
+C:\Users\Admin\Documents\c# learning\Another_burger\bin\Debug\net7.0\Another_burger.deps.json
+C:\Users\Admin\Documents\c# learning\Another_burger\bin\Debug\net7.0\Another_burger.runtimeconfig.json
+C:\Users\Admin\Documents\c# learning\Another_burger\bin\Debug\net7.0\Another_burger.dll
+C:\Users\Admin\Documents\c# learning\Another_burger\bin\Debug\net7.0\Another_burger.pdb
+C:\Users\Admin\Documents\c# learning\Another_burger\obj\Debug\net7.0\Another_burger.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\c# learning\Another_burger\obj\Debug\net7.0\Another_burger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c# learning\Another_burger\obj\Debug\net7.0\Another_burger.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c# learning\Another_burger\obj\Debug\net7.0\Another_burger.AssemblyInfo.cs
+C:\Users\Admin\Documents\c# learning\Another_burger\obj\Debug\net7.0\Another_burger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c# learning\Another_burger\obj\Debug\net7.0\Another_burger.dll
+C:\Users\Admin\Documents\c# learning\Another_burger\obj\Debug\net7.0\refint\Another_burger.dll
+C:\Users\Admin\Documents\c# learning\Another_burger\obj\Debug\net7.0\Another_burger.pdb
+C:\Users\Admin\Documents\c# learning\Another_burger\obj\Debug\net7.0\Another_burger.genruntimeconfig.cache
+C:\Users\Admin\Documents\c# learning\Another_burger\obj\Debug\net7.0\ref\Another_burger.dll
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\bin\Debug\net7.0\Another_burger.exe
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\bin\Debug\net7.0\Another_burger.deps.json
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\bin\Debug\net7.0\Another_burger.runtimeconfig.json
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\bin\Debug\net7.0\Another_burger.dll
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\bin\Debug\net7.0\Another_burger.pdb
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Another_burger.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Another_burger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Another_burger.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Another_burger.AssemblyInfo.cs
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Another_burger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Another_burger.dll
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\refint\Another_burger.dll
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Another_burger.pdb
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Another_burger.genruntimeconfig.cache
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\ref\Another_burger.dll

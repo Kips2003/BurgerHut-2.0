@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\bin\Debug\net7.0\Burgerhut.20.exe
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\bin\Debug\net7.0\Burgerhut.20.deps.json
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\bin\Debug\net7.0\Burgerhut.20.runtimeconfig.json
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\bin\Debug\net7.0\Burgerhut.20.dll
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\bin\Debug\net7.0\Burgerhut.20.pdb
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Burgerhut.20.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Burgerhut.20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Burgerhut.20.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Burgerhut.20.AssemblyInfo.cs
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Burgerhut.20.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Burgerhut.20.dll
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\refint\Burgerhut.20.dll
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Burgerhut.20.pdb
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\Burgerhut.20.genruntimeconfig.cache
+C:\Users\Admin\Documents\c# learning\BurgerHut 2.0\obj\Debug\net7.0\ref\Burgerhut.20.dll
